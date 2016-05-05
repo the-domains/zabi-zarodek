@@ -1,0 +1,28 @@
+name: Zabi Zarodek
+favicon: null
+layout_spectrum: 0.2649358280468732
+typography_spectrum: 0.6105338395573199
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7378295159433037
+  lightness: 0.12541332165710628
+  saturation: 0.38112018536776304
+  rhythmicContrast: 0.6060105666983873
+purpose: []
